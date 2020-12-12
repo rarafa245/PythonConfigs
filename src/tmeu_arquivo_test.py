@@ -1,2 +1,3 @@
 def test_something():
-    assert True
+    v = ["cachorro", "gato"]
+    assert "gato" in v
