@@ -13,7 +13,8 @@ def somatorio(num1: int, num2: int) -> int:
             - num2: numero inteiro 2
     :return - Soma entre dois numeros"""
 
-    return num1 + num2
+    resposta = num1 + num2
+    return resposta
 
 
 minha_funcao()
